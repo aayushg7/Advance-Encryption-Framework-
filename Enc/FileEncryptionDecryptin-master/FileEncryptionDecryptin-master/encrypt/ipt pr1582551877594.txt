@@ -1,0 +1,3 @@
+A Survey: Smart agriculture IoT with cloud computing 
+Cloud Computing for IoT Applications in Climate-Smart Agriculture: A Review on the Trends and Challenges Toward Sustainability
+IoT based smart crop-field monitoring and automation irrigation system
